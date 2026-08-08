@@ -1,7 +1,4 @@
 # Brithany
-<!DOCTYPE html>
-<html>
-
 <html>
 <head>
   <meta charset="utf-8">
@@ -50,9 +47,5 @@ body {
   </p>
   <hr>
   <h2>Gracias por visitar mi página web.</h2>
-
-  <script>
-    
-  </script>
 </body>
 </html>
