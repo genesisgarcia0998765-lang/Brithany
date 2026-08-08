@@ -1,1 +1,58 @@
 # Brithany
+<!DOCTYPE html>
+<html>
+
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>MI pagina web</title>
+
+  <style>
+    <style>
+body{
+  background-color: plum
+  text-align:center;
+}
+h1{
+  color: purple
+}
+</style>
+<style>
+body {
+  background-color: #FFC0CB;''
+}
+</style>
+
+  
+
+
+  </style>
+
+  
+</head>
+<body>
+  <h1>Planos los amigos</h1>
+<p>Planta de cimiento.</p>
+<p>Para hacer tus ideas realidades.</p>
+  <p aling="center"><img src="flores.jpg" height="300" width="400"
+  ></p>
+  <p aling="center"><img src="b.jpg" heigt="300" width="400"></p>
+  <h2>Datos de contacto:</h2>
+  <p>
+  No.de contacto: 4073-7671
+  </p>
+  <p>
+    Correo electrónico: flores-brithany-i728bcj-24@ilma.edu.gt
+  <p/>
+  <p>
+  Ubicacón: 1 Calle 9-30 Zona 3, Chimaltenango, Guatemala
+  </p>
+  <hr>
+  <h2>Gracias por visitar mi página web.</h2>
+
+  <script>
+    
+  </script>
+</body>
+</html>
