@@ -1,4 +1,7 @@
 # Brithany
+b.jpg
+flores.jpg
+
 <html>
 <head>
   <meta charset="utf-8">
@@ -20,8 +23,13 @@ body {
   background-color: #FFC0CB;''
 }
 </style>
-</html>
-  <html>
+
+
+
+
+</style>
+
+
 </head>
 <body>
   <h1>Planos los amigos</h1>
@@ -42,5 +50,4 @@ body {
   </p>
   <hr>
   <h2>Gracias por visitar mi página web.</h2>
-</body>
 </html>
