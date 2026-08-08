@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>MI pagina web</title>
+  <title>MI página web</title>
 
   <style>
     <style>
@@ -20,13 +20,8 @@ body {
   background-color: #FFC0CB;''
 }
 </style>
-
-  
-
-
-  </style>
-
-  
+</html>
+  <html>
 </head>
 <body>
   <h1>Planos los amigos</h1>
@@ -34,7 +29,7 @@ body {
 <p>Para hacer tus ideas realidades.</p>
   <p aling="center"><img src="flores.jpg" height="300" width="400"
   ></p>
-  <p aling="center"><img src="b.jpg" heigt="300" width="400"></p>
+  <p aling="center"><img src="b.jpg" height="300" width="400"></p>
   <h2>Datos de contacto:</h2>
   <p>
   No.de contacto: 4073-7671
