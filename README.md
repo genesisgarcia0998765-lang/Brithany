@@ -44,7 +44,7 @@ body {
   </p>
   <p>
     Correo electrónico: flores-brithany-i728bcj-24@ilma.edu.gt
-  <p/>
+  </p>
   <p>
   Ubicacón: 1 Calle 9-30 Zona 3, Chimaltenango, Guatemala
   </p>
